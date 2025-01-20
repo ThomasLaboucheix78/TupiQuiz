@@ -1,0 +1,103 @@
+{
+    "liste": [
+        {
+            "question": "Selon les estimations, un puits de pétrole abandonné typique pollue environ autant que :",
+            "choix": [
+                "10 à 100 voitures par an",
+                "100 à 1000 voitures par an",
+                "1000 à 10000 voitures par an",
+                "Plus de 10000 voitures par an"
+            ],
+            "réponse": "100 à 1000 voitures par an"
+        },
+        {
+            "question": "Quel est le principal gaz à effet de serre d'origine issu de l'activité humaine ?",
+            "choix": [
+                "Le méthane (CH4)",
+                "Le dioxyde de carbone (CO2)",
+                "Le protoxyde d'azote (N2O)",
+                "La vapeur d'eau"
+            ],
+            "réponse": "Le dioxyde de carbone (CO2)"
+        },
+        {
+            "question": "De combien la concentration de CO2 dans l'atmosphère a-t-elle augmenté depuis l'ère préindustrielle (avant 1750) ?",
+            "choix": [
+                "D'environ 20%",
+                "D'environ 80%",
+                "D'environ 65%",
+                "D'environ 48%"
+            ],
+            "réponse": "D'environ 48%"
+        },
+        {
+            "question": "Quelle est la principale source d'émissions de CO2 d'origine humaine ?",
+            "choix": [
+                "La combustion de combustibles fossiles",
+                "L'agriculture",
+                "L'industrie",
+                "La déforestation"
+            ],
+            "réponse": "La combustion de combustibles fossiles"
+        },
+        {
+            "question": "Lorem Ipsum5 ?",
+            "choix": [
+                "choix1",
+                "choix2",
+                "choix3",
+                "choix4"
+            ],
+            "réponse": "choix4"
+        },
+        {
+            "question": "Lorem Ipsum6 ?",
+            "choix": [
+                "choix1",
+                "choix2",
+                "choix3",
+                "choix4"
+            ],
+            "réponse": "choix4"
+        },
+        {
+            "question": "Lorem Ipsum7 ?",
+            "choix": [
+                "choix1",
+                "choix2",
+                "choix3",
+                "choix4"
+            ],
+            "réponse": "choix4"
+        },
+        {
+            "question": "Lorem Ipsum8 ?",
+            "choix": [
+                "choix1",
+                "choix2",
+                "choix3",
+                "choix4"
+            ],
+            "réponse": "choix4"
+        },
+        {
+            "question": "Lorem Ipsum9 ?",
+            "choix": [
+                "choix1",
+                "choix2",
+                "choix3",
+                "choix4"
+            ],
+            "réponse": "choix4"
+        },{
+            "question": "Lorem Ipsum10 ?",
+            "choix": [
+                "choix1",
+                "choix2",
+                "choix3",
+                "choix4"
+            ],
+            "réponse": "choix4"
+        }
+    ]
+}

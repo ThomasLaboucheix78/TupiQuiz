@@ -1,0 +1,117 @@
+.reponse1 {
+  background-color: #75A874;
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  font-size: 20px;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+.reponse2 {
+  background-color: #F2E9DF;
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  font-size: 20px;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+.reponse3 {
+  background-color: #BFAB94;
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  font-size: 20px;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+.reponse4 {
+  background-color: #E85D3F;
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  font-size: 20px;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+.reponses {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.haut {
+  display: flex;
+  flex-direction: row;
+}
+
+.bas {
+  display: flex;
+  flex-direction: row;
+}
+
+.question {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 90px;
+  color: #75A874;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+
+.tupi {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+
+.suivant {
+  background-color: #75A874;
+  width: 400px;
+  height: 150px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+}
+.score {
+  font-weight: bold;
+  font-size: 200px;
+  color: #75A874;
+  text-align: center;
+  display: flex;
+}
+.labonne {
+  font-weight: bold;
+  font-size: 100px;
+  color: #E85D3F;
+  text-align: center;
+  display: flex;
+}
