@@ -590,6 +590,16 @@
                 "Ils augmentent la biodiversité des écosystèmes"
             ],
             "réponse": "Ils diminuent la condition physique et le succès de reproduction"
+        },
+        {
+            "question": "Quel est l'impact de la surpêche sur les écosystèmes marins ?",
+            "choix": [
+                "Elle favorise la régénération des coraux",
+                "Elle réduit la diversité des espèces",
+                "Elle augmente la formation de nouveaux volcans sous-marins",
+                "Elle a un impact négligeable sur les océans"
+            ],
+            "réponse": "Elle réduit la diversité des espèces"
         }
     ]
 }
