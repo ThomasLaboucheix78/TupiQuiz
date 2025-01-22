@@ -600,6 +600,106 @@
                 "Elle a un impact négligeable sur les océans"
             ],
             "réponse": "Elle réduit la diversité des espèces"
+        },
+        {
+            "question": "Quel pourcentage des espèces connues est menacé d'extinction selon l'UICN (Union Internationale pour la Conservation de la Nature) ?",
+            "choix": [
+                "Environ 5%",
+                "Environ 15%",
+                "Environ 25%",
+                "Environ 40%"
+            ],
+            "réponse": "Environ 25%"
+        },
+        {
+            "question": "Quelle est la principale cause de perte de biodiversité dans le monde ?",
+            "choix": [
+                "Le changement climatique",
+                "La pollution",
+                "La destruction des habitats",
+                "La surexploitation des ressources"
+            ],
+            "réponse": "La destruction des habitats"
+        },
+        {
+            "question": "Quel écosystème est considéré comme le plus riche en biodiversité par unité de surface ?",
+            "choix": [
+                "Les forêts tropicales",
+                "Les récifs coralliens",
+                "Les prairies tempérées",
+                "Les mangroves"
+            ],
+            "réponse": "Les récifs coralliens"
+        },
+        {
+            "question": "Quel est le rôle principal des pollinisateurs dans les écosystèmes ?",
+            "choix": [
+                "Contrôler les populations d'insectes nuisibles",
+                "Assurer la reproduction de nombreuses plantes",
+                "Enrichir le sol en nutriments",
+                "Réguler la température des écosystèmes"
+            ],
+            "réponse": "Assurer la reproduction de nombreuses plantes"
+        },
+        {
+            "question": "Quelle est la principale menace pour les grands singes (gorilles, chimpanzés, orangs-outans) ?",
+            "choix": [
+                "La chasse",
+                "Les maladies",
+                "La perte d'habitat",
+                "Le changement climatique"
+            ],
+            "réponse": "La perte d'habitat"
+        },
+        {
+            "question": "Quel pourcentage de la surface terrestre est actuellement protégé (parcs nationaux, réserves naturelles, etc.) ?",
+            "choix": [
+                "Environ 5%",
+                "Environ 15%",
+                "Environ 25%",
+                "Environ 40%"
+            ],
+            "réponse": "Environ 15%"
+        },
+        {
+            "question": "Quel groupe d'animaux est le plus menacé d'extinction selon les dernières évaluations ?",
+            "choix": [
+                "Les mammifères",
+                "Les oiseaux",
+                "Les amphibiens",
+                "Les reptiles"
+            ],
+            "réponse": "Les amphibiens"
+        },
+        {
+            "question": "Quelle est la principale cause de déclin des populations d'abeilles dans le monde ?",
+            "choix": [
+                "Les pesticides",
+                "La perte d'habitat",
+                "Les maladies",
+                "Toutes ces réponses"
+            ],
+            "réponse": "Toutes ces réponses"
+        },
+        {
+            "question": "Quel océan abrite la plus grande diversité de poissons marins ?",
+            "choix": [
+                "L'océan Atlantique",
+                "L'océan Indien",
+                "L'océan Pacifique",
+                "L'océan Arctique"
+            ],
+            "réponse": "L'océan Pacifique"
+        },
+        {
+            "question": "Quelle approche de conservation vise à protéger des zones entières plutôt que des espèces individuelles ?",
+            "choix": [
+                "La conservation ex situ",
+                "La conservation in situ",
+                "La conservation basée sur les écosystèmes",
+                "La réintroduction d'espèces"
+            ],
+            "réponse": "La conservation basée sur les écosystèmes"
         }
     ]
 }
