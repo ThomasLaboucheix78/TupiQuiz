@@ -9,9 +9,9 @@ function App() {
   const [points, setPoints] = useState(0);
   const [fin, setFin] = useState(false);
   const [highlightCorrect, setHighlightCorrect] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(10); // Temps initial pour chaque question
-  const [buttonLabel, setButtonLabel] = useState("Valider sa réponse"); // Texte du bouton
-  const [showTimer, setShowTimer] = useState(true); // Contrôle de la barre de progression
+  const [timeLeft, setTimeLeft] = useState(10); 
+  const [buttonLabel, setButtonLabel] = useState("Valider sa réponse");
+  const [showTimer, setShowTimer] = useState(true); 
 
   const generateRandNum = () => {
     const newQuestions = [];
@@ -29,25 +29,25 @@ function App() {
   }, []);
 
   useEffect(() => {
-    if (fin || !showTimer) return; // Ne pas exécuter le timer si le jeu est terminé ou si la barre doit être cachée
+    if (fin || !showTimer) return; 
 
     const timer = setInterval(() => {
       setTimeLeft((prev) => {
         if (prev === 1) {
-          handleValidation(); // Valide automatiquement la réponse à la fin du temps
+          handleValidation(); 
           setButtonLabel("Question suivante");
-          return 10; // Réinitialise le timer pour la question suivante
+          return 10; 
         }
         return prev - 1;
       });
     }, 1000);
 
-    return () => clearInterval(timer); // Nettoie l'intervalle pour éviter les conflits
+    return () => clearInterval(timer); 
   }, [index, fin, choixReponse, showTimer]);
 
   const handleValidation = () => {
     setHighlightCorrect(true);
-    setShowTimer(false); // Cache la barre de progression
+    setShowTimer(false); 
     if (choixReponse !== -1 && liste_question.liste[questions[index]].choix[choixReponse] === liste_question.liste[questions[index]].réponse) {
       setPoints(points + 1);
     }
@@ -59,8 +59,8 @@ function App() {
       setIndex(index + 1);
       setChoixReponse(-1);
       setHighlightCorrect(false);
-      setTimeLeft(10); // Réinitialise le timer
-      setShowTimer(true); // Réaffiche la barre de progression
+      setTimeLeft(10); 
+      setShowTimer(true); 
       setButtonLabel("Valider sa réponse");
     } else {
       setFin(true);
