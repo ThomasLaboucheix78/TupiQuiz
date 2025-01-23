@@ -700,6 +700,1707 @@
                 "La réintroduction d'espèces"
             ],
             "réponse": "La conservation basée sur les écosystèmes"
+        },
+        {
+            "question": "Selon les estimations, un puits de pétrole abandonné typique pollue environ autant que :",
+            "choix": [
+                "10 à 100 voitures par an",
+                "100 à 1000 voitures par an",
+                "1000 à 10000 voitures par an",
+                "Plus de 10000 voitures par an"
+            ],
+            "réponse": "100 à 1000 voitures par an"
+        },
+        {
+            "question": "Quel est le principal gaz à effet de serre d'origine issu de l'activité humaine ?",
+            "choix": [
+                "Le méthane (CH4)",
+                "Le dioxyde de carbone (CO2)",
+                "Le protoxyde d'azote (N2O)",
+                "La vapeur d'eau"
+            ],
+            "réponse": "Le dioxyde de carbone (CO2)"
+        },
+        {
+            "question": "De combien la concentration de CO2 dans l'atmosphère a-t-elle augmenté depuis l'ère préindustrielle (avant 1750) ?",
+            "choix": [
+                "D'environ 20%",
+                "D'environ 80%",
+                "D'environ 65%",
+                "D'environ 48%"
+            ],
+            "réponse": "D'environ 48%"
+        },
+        {
+            "question": "Quelle est la principale source d'émissions de CO2 d'origine humaine ?",
+            "choix": [
+                "La combustion de combustibles fossiles",
+                "L'agriculture",
+                "L'industrie",
+                "La déforestation"
+            ],
+            "réponse": "La combustion de combustibles fossiles"
+        },
+        {
+            "question": "Combien de litres d’eau potable sont consommés à chaque fois qu’on tire la chasse",
+            "choix": [
+                "Environ 6 litres",
+                "Environ 8 litres",
+                "Environ 12 litres",
+                "Environ 4 litres"
+            ],
+            "réponse": "Environ 12 litres"
+        },
+        {
+            "question": "Combien d’eau consomme-t-on exactement pendant la douche ?",
+            "choix": [
+                "2 litres/ minute",
+                "10 litres/ minute",
+                "20 litres/ minute",
+                "50 litres/ minute"
+            ],
+            "réponse": "20 litres/ minute"
+        },
+        {
+            "question": "Quel pourcentage d’énergie économise-t-on lorsqu’on recouvre une casserole d’eau bouillante ?",
+            "choix": [
+                "10%",
+                "20%",
+                "50%",
+                "70%"
+            ],
+            "réponse": "70%"
+        },
+        {
+            "question": "Combien de temps met un sac plastique à usage unique à se décomposer dans la nature ?",
+            "choix": [
+                "10 ans",
+                "120 ans",
+                "400 ans",
+                "600 ans"
+            ],
+            "réponse": "400 ans"
+        },
+        {
+            "question": "Combien de kilos d’aliments gaspille chaque personne en moyenne chaque année ?",
+            "choix": [
+                "10 kilos",
+                "20 kilos",
+                "30 kilos",
+                "100 kilos"
+            ],
+            "réponse": "30 kilos"
+        },
+        {
+            "question": "quel secteur produit le plus de gaz à effet de serre en France ?",
+            "choix": [
+                "Le chauffage des logements",
+                "L’industrie/agriculture",
+                "Tupi",
+                "Les transports"
+            ],
+            "réponse": "Les transports"
+        },
+        {
+            "question": "Lequel de ces gaz produits N'EST PAS un gaz à effet de serre ?",
+            "choix": [
+                "CO2",
+                "O2",
+                "H2O",
+                "N20"
+            ],
+            "réponse": "O2"
+        },
+        {
+            "question": "Si l’océan se réchauffe, il absorbera ?",
+            "choix": [
+                "Plus de CO2",
+                "Moins de CO2",
+                "Autant de CO2",
+                "Il n'absorbe jamais de CO2"
+            ],
+            "réponse": "Moins de CO2"
+        },
+        {
+            "question": "Parmi les propositions suivantes, quel est celle qui perd le plus de glace tous les ans ?",
+            "choix": [
+                "Le Mont Blanc",
+                "L'Antarctique",
+                "L'Himalaya",
+                "Le Groënland"
+            ],
+            "réponse": "Le Groënland"
+        },
+        {
+            "question": "Pendant la dernière ère glacière (env. 16000 avant J-C), au niveau maximal de glaciation, le niveau de la mer était ?",
+            "choix": [
+                "12m plus bas qu'aujourd'hui",
+                "120m plus bas qu'aujourd'hui",
+                "12m plus haut qu'aujourd'hui",
+                "120m plus haut qu'aujourd'hui"
+            ],
+            "réponse": "120m plus bas qu'aujourd'hui"
+        },
+        {
+            "question": "Au cours des 35 dernières années, la surface de la banquise a ?",
+            "choix": [
+                "Diminué de 10 %",
+                "Diminué de 50 %",
+                "Augmenté de 50 %",
+                "Augmenté de 10 %"
+            ],
+            "réponse": "Diminué de 50 %"
+        },
+        {
+            "question": "À quelle date le GIEC a-t-il assuré que le réchauffement climatique était d’origine humaine ?",
+            "choix": [
+                "1988, dès sa création",
+                "2007, s’appuyant sur la multiplication des phénomènes climatiques extrêmes",
+                "2014, en vue de la tenue de la COP21 en 2015 à Paris",
+                "C'EST NOUS ????"
+            ],
+            "réponse": "2007, s’appuyant sur la multiplication des phénomènes climatiques extrêmes"
+        },
+        {
+            "question": "Lequel de ces pays émet le plus de gaz à effet de serre ?",
+            "choix": [
+                "La Chine",
+                "Les États-Unis",
+                "L'Arabie Saoudite",
+                "Le Brésil"
+            ],
+            "réponse": "Les États-Unis"
+        },
+        {
+            "question": "Quel pays a le plus d'émissions de gaz à effet de serre PAR HABITANT ?",
+            "choix": [
+                "Les États-Unis",
+                "L'Australie",
+                "La Norvège",
+                "Le Japon"
+            ],
+            "réponse": "L'Australie"
+        },
+        {
+            "question": "L'agriculture est responsable de la déforestation mondiale a hauteur de ?",
+            "choix": [
+                "20%",
+                "40%",
+                "60%",
+                "80%"
+            ],
+            "réponse": "80%"
+        },
+        {
+            "question": "En matière de transport, quelle action aurait le plus d’impact ?",
+            "choix": [
+                "Lancer un grand plan pour favoriser les vélos taxis",
+                "Améliorer l’efficience des avions",
+                "Construire un réseau global de trains à grande vitesse",
+                "Développer le télétravail"
+            ],
+            "réponse": "Améliorer l’efficience des avions"
+        },
+        {
+            "question": "A l’échelle des bâtiments, le plus efficace est ?",
+            "choix": [
+                "Installer des toits végétaux sur les immeubles ",
+                "Préconiser le port de doudounes à l’intérieur pour moins chauffer",
+                "Remplacer toutes les ampoules traditionnelles par des ampoules LED",
+                "Généraliser les pompes à chaleur"
+            ],
+            "réponse": "Remplacer toutes les ampoules traditionnelles par des ampoules LED"
+        },
+        {
+            "question": "Au rythme de consommation actuel au niveau mondial, 3 milliards de baril de pétrole sont consommés en ?",
+            "choix": [
+                "Un jour",
+                " Une semaine",
+                "Un mois",
+                "Un an"
+            ],
+            "réponse": "Un mois"
+        },
+        {
+            "question": "Combien l'américain moyen rejette de CO2 dans l'atmosphère par an ?",
+            "choix": [
+                "Une demi tonne",
+                "2 tonnes",
+                "20 tonnes",
+                "Une méga tonne"
+            ],
+            "réponse": "20 tonnes"
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle aurait le plus gros impact pour diminuer les émissions de gaz à effet de serre ?",
+            "choix": [
+                "TUPI",
+                "TUPI",
+                "TUPI",
+                "TUPI"
+            ],
+            "réponse": "TUPI"
+        },
+        {
+            "question": "Où auront lieu les premiers et les plus forts impacts du changement climatique ?",
+            "choix": [
+                "Tropiques",
+                "Latitudes nord",
+                "Équateur",
+                "La distribution est égale"
+            ],
+            "réponse": "Latitudes nord"
+        },
+        {
+            "question": "Durant la COP21, combien de pays se sont engagés à doubler les efforts de R&D sur les énergies propres ?",
+            "choix": [
+                "20",
+                "76",
+                "195",
+                "45"
+            ],
+            "réponse": "20"
+        },
+        {
+            "question": "D'après la réglementation française, lequel de ces objets ne doit pas aller dans la poubelle jaune de recyclage ?",
+            "choix": [
+                "Aérosols",
+                "Journaux et magazines",
+                "Bidon de lessive",
+                "Essuie-tout usagé"
+            ],
+            "réponse": "Essuie-tout usagé"
+        },
+        {
+            "question": "Si un robinet fuit d’une goutte toutes les secondes, quelle est la quantité d’eau potable perdue ?",
+            "choix": [
+                "1 litre/jour",
+                "4 litres/jour",
+                "9 litres/jour",
+                "16 litres/jour"
+            ],
+            "réponse": "4 litres/jour"
+        },
+        {
+            "question": "Quel gaz est principalement responsable de l’effet de serre ?",
+            "choix": [
+                "Oxygène",
+                "Azote",
+                "Dioxyde de carbone (CO₂)",
+                "Hélium"
+            ],
+            "réponse": "Dioxyde de carbone (CO₂)"
+        },
+        {
+            "question": "Quel est le principal effet de la déforestation ?",
+            "choix": [
+                "Baisse de l’oxygène dans l’air",
+                "Réduction de la biodiversité",
+                "Baisse de la température globale",
+                "Formation de nouveaux sols"
+            ],
+            "réponse": "Réduction de la biodiversité"
+        },
+        {
+            "question": "Quel animal est un indicateur clé de la pollution des océans ?",
+            "choix": [
+                "Méduse",
+                "Tortue marine",
+                "Oiseaux marins",
+                "Poisson lanterne"
+            ],
+            "réponse": "Oiseaux marins"
+        },
+        {
+            "question": "Quel matériau est le plus facile à recycler ?",
+            "choix": [
+                "Verre",
+                "Plastique",
+                "Bois",
+                "Céramique"
+            ],
+            "réponse": "Verre"
+        },
+        {
+            "question": "Quel type de déchet met le plus de temps à se dégrader dans la nature ?",
+            "choix": [
+                "Papier",
+                "Plastique",
+                "Aluminium",
+                "Verre"
+            ],
+            "réponse": "Verre"
+        },
+        {
+            "question": "Quel phénomène est une conséquence de l’acidification des océans ?",
+            "choix": [
+                "Croissance rapide des coraux",
+                "Disparition des espèces marines",
+                "Augmentation de la température des océans",
+                "Réduction de la salinité"
+            ],
+            "réponse": "Disparition des espèces marines"
+        },
+        {
+            "question": "Quelle pratique aide à réduire l’empreinte carbone individuelle ?",
+            "choix": [
+                "Consommer des produits locaux",
+                "Utiliser des sacs en plastique",
+                "Conduire des véhicules à essence",
+                "Augmenter la consommation de viande"
+            ],
+            "réponse": "Consommer des produits locaux"
+        },
+        {
+            "question": "Quel est l’un des principaux effets du trou dans la couche d’ozone ?",
+            "choix": [
+                "Augmentation des tempêtes tropicales",
+                "Augmentation des cas de cancer de la peau",
+                "Augmentation des émissions de CO2",
+                "Diminution des niveaux d’oxygène"
+            ],
+            "réponse": "Augmentation des cas de cancer de la peau"
+        },
+        {
+            "question": "Quel pays est actuellement le plus grand émetteur de dioxyde de carbone ?",
+            "choix": [
+                "Inde",
+                "Chine",
+                "États-Unis",
+                "Russie"
+            ],
+            "réponse": "Chine"
+        },
+        {
+            "question": "Quelle couche de l’atmosphère protège la Terre des rayonnements UV nocifs ?",
+            "choix": [
+                "Troposphère",
+                "Stratosphère",
+                "Mésosphère",
+                "Thermosphère"
+            ],
+            "réponse": "Stratosphère"
+        },
+        {
+            "question": "Quel phénomène est une conséquence directe de la déforestation ?",
+            "choix": [
+                "Augmentation des niveaux d'oxygène",
+                "Diminution des émissions de carbone",
+                "Perte de biodiversité",
+                "Ralentissement de l’érosion des sols",
+                "La qualité du code de Thomas"
+            ],
+            "réponse": "Perte de biodiversité"
+        },
+        {
+            "question": "Quel processus chimique est inhibé dans les océans en raison de l'acidification, affectant directement les organismes calcificateurs comme les coraux ?",
+            "choix": [
+                "Oxydation du méthane",
+                "Précipitation du carbonate de calcium",
+                "Réduction des nitrates",
+                "Formation des sulfures"
+            ],
+            "réponse": "Précipitation du carbonate de calcium"
+        },
+        {
+            "question": "Quel est l’impact principal de l’albédo décroissant des calottes glaciaires sur le système climatique terrestre ?",
+            "choix": [
+                "Augmentation du piégeage de la chaleur dans l’atmosphère",
+                "Réduction de l’évapotranspiration dans les régions polaires",
+                "Augmentation du transport de chaleur océanique",
+                "Régulation accrue de la température globale"
+            ],
+            "réponse": "Augmentation du piégeage de la chaleur dans l’atmosphère"
+        },
+        {
+            "question": "Dans le cadre du modèle climatique RCP 8.5, quelle conséquence est prédite pour les courants de circulation thermohaline d'ici 2100 ?",
+            "choix": [
+                "Accélération de la circulation thermohaline",
+                "Affaiblissement de l'AMOC (circulation méridienne de retournement atlantique)",
+                "Stagnation complète de tous les courants océaniques",
+                "Réinversion de la polarité des courants océaniques"
+            ],
+            "réponse": "Affaiblissement de l'AMOC (circulation méridienne de retournement atlantique)"
+        },
+        {
+            "question": "Quel est le principal mécanisme par lequel le méthane contribue davantage à l’effet de serre, bien que sa concentration atmosphérique soit inférieure à celle du CO2 ?",
+            "choix": [
+                "Durée de vie plus longue dans l’atmosphère",
+                "Capacité d’absorption infrarouge plus élevée par molécule",
+                "Interaction chimique avec l’ozone troposphérique",
+                "Production accrue par photosynthèse inversée"
+            ],
+            "réponse": "Capacité d’absorption infrarouge plus élevée par molécule"
+        },
+        {
+            "question": "Selon le concept des 'limites planétaires' (Planetary Boundaries), quelle limite est déjà largement dépassée et représente une menace critique pour la stabilité de l’écosystème terrestre ?",
+            "choix": [
+                "Perte de biodiversité",
+                "Changement d'utilisation des sols",
+                "Acidification des océans",
+                "Utilisation de l’eau douce"
+            ],
+            "réponse": "Perte de biodiversité"
+        },
+        {
+            "question": "Quel est le rôle principal de la pompe biologique dans le cycle du carbone océanique ?",
+            "choix": [
+                "Transport vertical du carbone inorganique vers la surface",
+                "Fixation du CO2 atmosphérique par les organismes phytoplanctoniques",
+                "Oxydation des composés organiques dans les abysses",
+                "Recyclage des nutriments dans les eaux profondes"
+            ],
+            "réponse": "Fixation du CO2 atmosphérique par les organismes phytoplanctoniques"
+        },
+        {
+            "question": "Quelle est la conséquence écologique majeure du phénomène de 'zones mortes' dans les océans, causé par l’eutrophisation ?",
+            "choix": [
+                "Prolifération de prédateurs marins",
+                "Désoxygénation des eaux profondes",
+                "Augmentation de la biodiversité marine",
+                "Raffermissement des écosystèmes côtiers"
+            ],
+            "réponse": "Désoxygénation des eaux profondes"
+        },
+        {
+            "question": "Pourquoi le forçage radiatif des aérosols sulfates est-il considéré comme un effet de refroidissement climatique à court terme ?",
+            "choix": [
+                "Ils absorbent le rayonnement infrarouge",
+                "Ils augmentent la formation des nuages réfléchissants",
+                "Ils réduisent la concentration d'ozone troposphérique",
+                "Ils piégent la chaleur dans les couches supérieures de l'atmosphère"
+            ],
+            "réponse": "Ils augmentent la formation des nuages réfléchissants"
+        },
+        {
+            "question": "Dans le cadre du Protocole de Nagoya, quel principe clé est appliqué pour l’utilisation équitable des ressources génétiques ?",
+            "choix": [
+                "Libre accès aux ressources biologiques",
+                "Consentement préalable en connaissance de cause (PIC)",
+                "Transfert obligatoire de technologie",
+                "Protection stricte des brevets industriels"
+            ],
+            "réponse": "Consentement préalable en connaissance de cause (PIC)"
+        },
+        {
+            "question": "Quelle interaction complexe entre le dioxyde de carbone et les sols pourrait inverser leur rôle actuel de puits de carbone ?",
+            "choix": [
+                "Augmentation de la photosynthèse microbienne",
+                "Libération massive de carbone organique par le permafrost",
+                "Réduction de la fixation de l’azote dans les sols",
+                "Stabilisation accrue de la matière organique"
+            ],
+            "réponse": "Libération massive de carbone organique par le permafrost"
+        },
+        {
+            "question": "Quel animal d'élevage produit le plus de gaz à effet de serre ?",
+            "choix": [
+                "Le poulet",
+                "Le bœuf",
+                "Le porc",
+                "Le mouton"
+            ],
+            "réponse": "Le bœuf"
+        },
+        {
+            "question": "Quelle quantité de méthane une vache produit-elle          approximativement par an ?",
+            "choix": [
+                "50 kg",
+                "75 kg",
+                "125 kg",
+                "200 kg"
+            ],
+            "réponse": "125 kg"
+        },
+        {
+            "question": "Quelle distance une voiture moyenne doit-elle parcourir pour émettre autant de gaz à effet de serre qu'une vache laitière en produit (sous forme de méthane) en un an ?",
+            "choix": [
+                "15 000 kilomètres",
+                "10 000 kilomètres",
+                "20 000 kilomètres",
+                "30 000 kilomètres"
+            ],
+            "réponse": "20 000 kilomètres"
+        },
+        {
+            "question": "Quel pourcentage des émissions mondiales de gaz à effet de serre est attribué à l'élevage ?",
+            "choix": [
+                "10%",
+                "14,5%",
+                "20%",
+                "25%"
+            ],
+            "réponse": "14,5%"
+        },
+        {
+            "question": "Combien d'eau est nécessaire pour produire 1 kg de viande de bœuf ?",
+            "choix": [
+                "5 000 litres",
+                "7 500 litres",
+                "10 000 litres",
+                "15 000 litres"
+            ],
+            "réponse": "5 000 litres"
+        },
+        {
+            "question": "Que sont les zones mortes dans les océans ?",
+            "choix": [
+                "Des régions sans lumière",
+                "Des zones avec des concentrations d'oxygène très faibles",
+                "Des fosses marines très profondes",
+                "Des parties de l'océan sans aucune vie marine"
+            ],
+            "réponse": "Des zones avec des concentrations d'oxygène très faibles"
+        },
+        {
+            "question": "Quelle est une des principales causes de blanchiment des coraux ?",
+            "choix": [
+                "Les changements dans les courants marins",
+                "La pollution plastique",
+                "L'augmentation de la température des eaux",
+                "La surpêche"
+            ],
+            "réponse": "L'augmentation de la température des eaux"
+        },
+        {
+            "question": "Quel phénomène est associé à l'élévation du niveau de la mer ?",
+            "choix": [
+                "La fonte des glaciers continentaux",
+                "La destruction des récifs coralliens",
+                "L'augmentation de l'albédo",
+                "La formation de nouveaux volcans sous-marins"
+            ],
+            "réponse": "La fonte des glaciers continentaux"
+        },
+        {
+            "question": "Comment les microplastiques affectent-ils la faune marine ?",
+            "choix": [
+                "Ils enrichissent la chaîne alimentaire",
+                "Ils bloquent les voies respiratoires des animaux marins",
+                "Ils accélèrent la reproduction des espèces marines",
+                "Ils augmentent la biodiversité des écosystèmes"
+            ],
+            "réponse": "Ils bloquent les voies respiratoires des animaux marins"
+        },
+        {
+            "question": "Comment les microplastiques affectent-ils la faune marine ?",
+            "choix": [
+                "Ils enrichissent la chaîne alimentaire",
+                "Ils provoquent des modifications dans les migrations des espèces",
+                "Ils diminuent la condition physique et le succès de reproduction",
+                "Ils augmentent la biodiversité des écosystèmes"
+            ],
+            "réponse": "Ils diminuent la condition physique et le succès de reproduction"
+        },
+        {
+            "question": "Quel est l'impact de la surpêche sur les écosystèmes marins ?",
+            "choix": [
+                "Elle favorise la régénération des coraux",
+                "Elle réduit la diversité des espèces",
+                "Elle augmente la formation de nouveaux volcans sous-marins",
+                "Elle a un impact négligeable sur les océans"
+            ],
+            "réponse": "Elle réduit la diversité des espèces"
+        },
+        {
+            "question": "Quel pourcentage des espèces connues est menacé d'extinction selon l'UICN (Union Internationale pour la Conservation de la Nature) ?",
+            "choix": [
+                "Environ 5%",
+                "Environ 15%",
+                "Environ 25%",
+                "Environ 40%"
+            ],
+            "réponse": "Environ 25%"
+        },
+        {
+            "question": "Quelle est la principale cause de perte de biodiversité dans le monde ?",
+            "choix": [
+                "Le changement climatique",
+                "La pollution",
+                "La destruction des habitats",
+                "La surexploitation des ressources"
+            ],
+            "réponse": "La destruction des habitats"
+        },
+        {
+            "question": "Quel écosystème est considéré comme le plus riche en biodiversité par unité de surface ?",
+            "choix": [
+                "Les forêts tropicales",
+                "Les récifs coralliens",
+                "Les prairies tempérées",
+                "Les mangroves"
+            ],
+            "réponse": "Les récifs coralliens"
+        },
+        {
+            "question": "Quel est le rôle principal des pollinisateurs dans les écosystèmes ?",
+            "choix": [
+                "Contrôler les populations d'insectes nuisibles",
+                "Assurer la reproduction de nombreuses plantes",
+                "Enrichir le sol en nutriments",
+                "Réguler la température des écosystèmes"
+            ],
+            "réponse": "Assurer la reproduction de nombreuses plantes"
+        },
+        {
+            "question": "Quelle est la principale menace pour les grands singes (gorilles, chimpanzés, orangs-outans) ?",
+            "choix": [
+                "La chasse",
+                "Les maladies",
+                "La perte d'habitat",
+                "Le changement climatique"
+            ],
+            "réponse": "La perte d'habitat"
+        },
+        {
+            "question": "Quel pourcentage de la surface terrestre est actuellement protégé (parcs nationaux, réserves naturelles, etc.) ?",
+            "choix": [
+                "Environ 5%",
+                "Environ 15%",
+                "Environ 25%",
+                "Environ 40%"
+            ],
+            "réponse": "Environ 15%"
+        },
+        {
+            "question": "Quel groupe d'animaux est le plus menacé d'extinction selon les dernières évaluations ?",
+            "choix": [
+                "Les mammifères",
+                "Les oiseaux",
+                "Les amphibiens",
+                "Les reptiles"
+            ],
+            "réponse": "Les amphibiens"
+        },
+        {
+            "question": "Quelle est la principale cause de déclin des populations d'abeilles dans le monde ?",
+            "choix": [
+                "Les pesticides",
+                "La perte d'habitat",
+                "Les maladies",
+                "Toutes ces réponses"
+            ],
+            "réponse": "Toutes ces réponses"
+        },
+        {
+            "question": "Quel océan abrite la plus grande diversité de poissons marins ?",
+            "choix": [
+                "L'océan Atlantique",
+                "L'océan Indien",
+                "L'océan Pacifique",
+                "L'océan Arctique"
+            ],
+            "réponse": "L'océan Pacifique"
+        },
+        {
+            "question": "Quelle approche de conservation vise à protéger des zones entières plutôt que des espèces individuelles ?",
+            "choix": [
+                "La conservation ex situ",
+                "La conservation in situ",
+                "La conservation basée sur les écosystèmes",
+                "La réintroduction d'espèces"
+            ],
+            "réponse": "La conservation basée sur les écosystèmes"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la fonte des pergélisols sur les émissions de méthane?",
+            "choix": [
+                "Effet négligeable sur la fonte des pergélisols sur les émissions de méthane",
+                "Réduction drastique des émissions liées à la fonte des pergélisols sur les émissions de méthane",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de la circulation océanique sur le climat européen?",
+            "choix": [
+                "Effet négligeable sur la circulation océanique sur le climat européen",
+                "Réduction drastique des émissions liées à la circulation océanique sur le climat européen",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'urbanisation rapide sur la perte de biodiversité?",
+            "choix": [
+                "Effet négligeable sur l'urbanisation rapide sur la perte de biodiversité",
+                "Réduction drastique des émissions liées à l'urbanisation rapide sur la perte de biodiversité",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques?",
+            "choix": [
+                "Effet négligeable sur l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Réduction drastique des émissions liées à l'utilisation intensive d'engrais azotés sur les cycles biogéochimiques",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les feux de forêt sur l'albédo terrestre?",
+            "choix": [
+                "Effet négligeable sur les feux de forêt sur l'albédo terrestre",
+                "Réduction drastique des émissions liées à les feux de forêt sur l'albédo terrestre",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'impact cumulatif des microplastiques sur la santé humaine?",
+            "choix": [
+                "Effet négligeable sur l'impact cumulatif des microplastiques sur la santé humaine",
+                "Réduction drastique des émissions liées à l'impact cumulatif des microplastiques sur la santé humaine",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de l'acidification des sols agricoles sur les rendements?",
+            "choix": [
+                "Effet négligeable sur l'acidification des sols agricoles sur les rendements",
+                "Réduction drastique des émissions liées à l'acidification des sols agricoles sur les rendements",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les modifications de l'habitat marin par les infrastructures offshore?",
+            "choix": [
+                "Effet négligeable sur les modifications de l'habitat marin par les infrastructures offshore",
+                "Réduction drastique des émissions liées à les modifications de l'habitat marin par les infrastructures offshore",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les investissements dans les énergies fossiles sur les émissions futures?",
+            "choix": [
+                "Effet négligeable sur les investissements dans les énergies fossiles sur les émissions futures",
+                "Réduction drastique des émissions liées à les investissements dans les énergies fossiles sur les émissions futures",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
+        },
+        {
+            "question": "Quel est l'impact précis de les politiques carbone neutres sur l'équité intergénérationnelle?",
+            "choix": [
+                "Effet négligeable sur les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Réduction drastique des émissions liées à les politiques carbone neutres sur l'équité intergénérationnelle",
+                "Augmentation temporaire des avantages écologiques",
+                "Impact significatif sur les émissions et les cycles naturels"
+            ],
+            "réponse": "Impact significatif sur les émissions et les cycles naturels"
         }
     ]
 }
